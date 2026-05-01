@@ -1,5 +1,8 @@
 # 📊 Trader Performance vs Market Sentiment Analysis
 
+## 🔗 Notebook
+[Click here to view the notebook](./Assignment.ipynb)
+
 ## 📌 Overview
 This project analyzes how market sentiment (Fear/Greed) impacts trader behavior and performance on Hyperliquid.
 
@@ -93,10 +96,9 @@ Market sentiment plays a significant role in shaping trader performance and beha
 Aligning trading strategies with sentiment and managing risk effectively can improve overall profitability.
 
 ---
-
 ## ▶️ How to Run
 
 1. Open the notebook (`.ipynb`)
 2. Install required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
